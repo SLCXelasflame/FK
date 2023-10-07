@@ -1,0 +1,9 @@
+name: FK
+version: '1.0'
+main: fr.xelasflame.fk.Main
+api-version: 1.8.8
+authors: [Xelasflame]
+description: Fk uhc de Xelasflame
+commands:
+  fk:
+    description: toutes les commandes de fk
