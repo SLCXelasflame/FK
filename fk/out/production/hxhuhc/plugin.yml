@@ -1,9 +1,0 @@
-name: HxH
-version: '1.0'
-main: fr.xelasflame.hxhuhc.Main
-api-version: 1.8.8
-authors: [Xelasflame]
-description: HxH uhc de Xelasflame
-commands:
-  start:
-    description: start la partie
